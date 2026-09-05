@@ -277,4 +277,5 @@ This script can be useful for:
 
 Built as a lightweight Linux server monitoring and Bash scripting project.
 
+https://roadmap.sh/projects/server-stats
 
