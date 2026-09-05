@@ -89,7 +89,7 @@ Most of these utilities are included by default on common Linux distributions su
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/server-stats.git
+git clone https://github.com/egah923/Server-Performance-Stats
 ```
 
 Navigate into the project:
@@ -109,7 +109,7 @@ chmod +x server_stats.sh
 Run the script with:
 
 ```bash
-./server_stats.sh
+./server-stats.sh
 ```
 
 You can also execute it using Bash:
@@ -254,7 +254,7 @@ who | wc -l
 ```text
 server-stats/
 │
-├── server_stats.sh
+├── server-stats.sh
 └── README.md
 ```
 
@@ -277,4 +277,4 @@ This script can be useful for:
 
 Built as a lightweight Linux server monitoring and Bash scripting project.
 
-Repo link: https://github.com/egah923/Server-Performance-Stats
+
